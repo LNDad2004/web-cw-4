@@ -2,6 +2,7 @@ body {
   /* المطلوب الأول هنا */
   text-align: center;
   background-image: url('./img/kuwaitcodes.png');
+  font-family: cairo;
 }
 .card {
   /* المطلوب الثاني هنا */
